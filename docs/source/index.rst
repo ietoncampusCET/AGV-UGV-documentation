@@ -1,10 +1,10 @@
-Welcome to agv_ugv_doc's documentation!
+Welcome to AGV-UGV's documentation!
 ===================================
 
-**agv_ugv_doc** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This is a robotics project under IET on Campus CET, College of Engineering Trivandrum.
+
+Consisting of a (UAV)Drone and a (UGV) Rover, where the UAV can land on the UGV autonomously and act as an On-the-Go charger for the UAV. The UGV is able to traverse rough terrains with its multi-terrain design.
+With autonomous SLAMing and guidance the combo can be deployed in surveillance of disaster-struck areas, surveying of land in difficult terrains, etc.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
