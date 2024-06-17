@@ -5,4 +5,5 @@ build-backend = "flit_core.buildapi"
 [project]
 name = "agv_ugv_doc"
 authors = [{name = "Niran S Narayanan", email = "nirans2002@gmail.com"}]
+>>>>>>> 645b0b793890d12902ca12fd42b20aeb5c3e7e24
 dynamic = ["version", "description"]
